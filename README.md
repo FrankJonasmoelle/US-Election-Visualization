@@ -11,3 +11,8 @@ link to dataset: https://www.kaggle.com/unanimad/us-election-2020
 
 ![img.sh]("image/us_election_electors.html") 
      
+     
+https://github.com/FrankJonasmoelle/US-Election-Visualization/blob/master/images/percentage_votes.png
+
+
+[a relative link](images/trump_vs_biden.jpg)
