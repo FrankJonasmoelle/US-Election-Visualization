@@ -1,18 +1,6 @@
 # US-Election-Visualization
-<img src="images/biden_vs_trump.jpg"/>
 
-link to dataset: https://www.kaggle.com/unanimad/us-election-2020
+<img src="trump_vs_biden.jpg" />
 
-<img src="image/percentage_votes.png" alt="drawing" width="500"/>
+The visualization uses the following data set: https://www.kaggle.com/unanimad/us-election-2020
 
-<img src="total_votes.png" alt="drawing" width="500"/>
-
-<img src="image/us_election_electors.html" alt="drawing" width="500"/>
-
-![img.sh]("image/us_election_electors.html") 
-     
-     
-https://github.com/FrankJonasmoelle/US-Election-Visualization/blob/master/images/percentage_votes.png
-
-
-[a relative link](images/trump_vs_biden.jpg)
