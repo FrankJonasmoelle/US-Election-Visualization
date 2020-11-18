@@ -1,5 +1,5 @@
 # US-Election-Visualization
-
+<img src="images/biden_vs_trump"/>
 
 link to dataset: https://www.kaggle.com/unanimad/us-election-2020
 
