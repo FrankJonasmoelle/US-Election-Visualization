@@ -7,12 +7,15 @@ The visualization uses the following data set: https://www.kaggle.com/unanimad/u
 
 To see the **full notebook with all outputs**, visit this link: https://www.kaggle.com/frankjonasmoelle/election-visualization4
 
-Visualizing the winner of the election for each state:
+**Visualizing the winner of the election for each state:**
 ![alt text](images/us_election_map.png)
 
-Visualizing percentage of votes for the democratic/republican party for each state:
+**Visualizing percentage of votes for the democratic/republican party for each state:**
 ![alt text](images/us_map_dem_percentages.png)
 
-The total votes and their percentages for Biden and Trump:
+
+**The total votes and their percentages for Biden and Trump:**
+
 ![alt text](images/total_votes.png)
+
 ![alt text](images/percentage_votes.png)
