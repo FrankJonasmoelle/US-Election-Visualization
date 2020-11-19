@@ -5,4 +5,4 @@ The visualization uses the following data set: https://www.kaggle.com/unanimad/u
 To see the full notebook with all outputs, visit this link: https://www.kaggle.com/frankjonasmoelle/election-visualization4
 
 
-![alt text](images/us_election_map.jpg)
+![alt text](images/us_election_map.png)
